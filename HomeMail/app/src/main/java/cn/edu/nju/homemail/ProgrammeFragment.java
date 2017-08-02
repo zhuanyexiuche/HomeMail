@@ -16,7 +16,7 @@ public class ProgrammeFragment extends Fragment {
     public static Fragment newInstance() {
         Bundle args = new Bundle();
 
-        CommunityFragment fragment = new CommunityFragment();
+        ProgrammeFragment fragment = new ProgrammeFragment();
         fragment.setArguments(args);
         return fragment;
     }

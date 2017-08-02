@@ -16,7 +16,7 @@ public class MoreFragment extends Fragment {
     public static Fragment newInstance() {
         Bundle args = new Bundle();
 
-        CommunityFragment fragment = new CommunityFragment();
+        MoreFragment fragment = new MoreFragment();
         fragment.setArguments(args);
         return fragment;
     }
