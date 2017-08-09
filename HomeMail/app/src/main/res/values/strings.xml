@@ -4,4 +4,7 @@
     <string name="listen">收听</string>
     <string name="community">社区</string>
     <string name="more">更多</string>
+    <string name="chat">聊天</string>
+    <string name="tree">树洞</string>
+    <string name="family">亲子圈</string>
 </resources>
