@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/huangxiao/Documents/GitHub/HomeMail/HomeMail/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="26e46e13cde689eb22bf92b4e5803c750052791f">
-        <dex dex="/Users/huangxiao/Documents/GitHub/HomeMail/HomeMail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd3bdf575896e42f321174eab5ab241e0c3c4fe9/classes.dex" />
+        sha1="9cda1304802c4cb095fb2e471dd2e020ecfff223">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ed00b041fc4f6efdf5b8223d5383209a0471877\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/huangxiao/Documents/GitHub/HomeMail/HomeMail/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\DELL\.android\build-cache\b7629605950f576a7b0ee6a94b287353c54df85c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_486332320ccf291dd50df15b1c275c32b4d987be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\5af31ce2cf2f171cc6442e3c2450d51347988ea2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a3acd8759e7ec39de59e755d6fa31318d17483a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\8a6d80a1f34b4db36ad154b7a539cbf5a232bf87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3796243d83571344f737862fffcb2382af7765a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\70dd3d8dc07aac8cdb16958ceec709b1d13ef35a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02cdd389021d359307ccab2f8538e782faf18938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\72dc32f96156394fc80b1c8ba0bcfeebaa4dbf0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d0a0445aab577a0f48b37fd90759de65b8d9548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\e7822af8911903fdb1b89606981edb528944a1fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63ec95b983047d0894495b074c9ccc5f604da851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\f9b034263b7af8960ca572c8c49bdc0ef26fa7fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8d68de1a35f52c31a92dee9cf9eeaf66989ab0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_655ede3409d58b95b92955d63090aee27ce38a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\05e33088ffd5d32eb53eb8ed8ee40980d234a1de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca5568f5abd67fbc65c8901fbbb55fafaddc212f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_27ffcc8b44db0ee0ebbe478bdf8740dd00bf1194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\9d8496a8ec716fc733ca3d056faea865d69dc946\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b40cef955bf700ee95c37370d6ec72f2bba9c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/huangxiao/Documents/GitHub/HomeMail/HomeMail/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3245e298665d15dfecd02ad84ccc16d04806579c/classes.dex" />
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e97fc014dbae75b7b8e97aa3b399b7d53ad99226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.android\build-cache\3179343d5325b1b89ba86f179433dffd9bc4a46b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\CarTeam\HomeMail\HomeMail\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5eab2603f78696fa4511f5126fc155f28e8e221\classes.dex" />
     </item>
 
 </items>
